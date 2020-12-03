@@ -140,15 +140,15 @@ Project Link: [https://github.com/jarovaisanen/DrumOnsetDetectionCNN](https://gi
 ## Acknowledgements
 
 Master's Thesis (in Finnish)
-* [Link under construction](https://www.jyu.fi/en/){:target="_blank"}
+* [Link under construction](https://www.jyu.fi/en/)
 
 Original article
-* [Automatic drum transcription with convolutional neural networks](https://hal.archives-ouvertes.fr/hal-02018777/file/DAFx2018_paper_59.pdf){:target="_blank"}
+* [Automatic drum transcription with convolutional neural networks](https://hal.archives-ouvertes.fr/hal-02018777/file/DAFx2018_paper_59.pdf)
 Céline Jacques, Axel Roebel. Automatic drum transcription with convolutional neural networks.
 21th International Conference on Digital Audio Effects, Sep 2018, Aveiro, Portugal, Sep 2018, Aveiro,Portugal. hal-02018777
 
 Code that helped me to get started
-* [Bokoch](https://gitlab.at.ispras.ru/angara/uncaptcha/-/blob/master/dataset.py){:target="_blank"}
+* [Bokoch](https://gitlab.at.ispras.ru/angara/uncaptcha/-/blob/master/dataset.py)
 
 
 
