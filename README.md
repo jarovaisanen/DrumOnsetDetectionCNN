@@ -92,12 +92,9 @@ To get a local copy up and running follow these steps.
    ```sh
    pip install -r requirements.txt
    ```
-3. Install CUDA 10.1 for GPU accelerated CNN training:
-   https://developer.nvidia.com/cuda-10.1-download-archive-base
-4. Get ENST Drum database dataset from:
-   https://perso.telecom-paristech.fr/grichard/ENST-drums/
-5. Recommended to setup a virtual environment:
-   https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+3. Install <a href="https://developer.nvidia.com/cuda-10.1-download-archive-base" target="_blank">CUDA 10.1</a> for GPU accelerated CNN training:
+4. Get the <a href="https://perso.telecom-paristech.fr/grichard/ENST-drums/" target="_blank">ENST Drum database</a> dataset
+5. Recommended to setup a <a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/" target="_blank">virtual environment</a>
 
 
 
@@ -107,9 +104,7 @@ To get a local copy up and running follow these steps.
 <!--Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 1. Modify
    [main.py](https://github.com/jarovaisanen/DrumOnsetDetectionCNN/blob/main/src/main.py)
-  to suit your needs 
-  * Hyperparameters
-  * Paths
+  to suit your needs (Hyperparameters, Paths)
 2. Start data pre-processing and training the CNN by running [main.py](https://github.com/jarovaisanen/DrumOnsetDetectionCNN/blob/main/src/main.py)
 
 
@@ -145,15 +140,15 @@ Project Link: [https://github.com/jarovaisanen/DrumOnsetDetectionCNN](https://gi
 ## Acknowledgements
 
 Master's Thesis (in Finnish)
-* [Link under construction](https://www.jyu.fi/en/)
+* [Link under construction](https://www.jyu.fi/en/){:target="_blank"}
 
 Original article
-* [Automatic drum transcription with convolutional neural networks](https://hal.archives-ouvertes.fr/hal-02018777/file/DAFx2018_paper_59.pdf)
+* [Automatic drum transcription with convolutional neural networks](https://hal.archives-ouvertes.fr/hal-02018777/file/DAFx2018_paper_59.pdf){:target="_blank"}
 Céline Jacques, Axel Roebel. Automatic drum transcription with convolutional neural networks.
 21th International Conference on Digital Audio Effects, Sep 2018, Aveiro, Portugal, Sep 2018, Aveiro,Portugal. hal-02018777
 
 Code that helped me to get started
-* [Bokoch](https://gitlab.at.ispras.ru/angara/uncaptcha/-/blob/master/dataset.py)
+* [Bokoch](https://gitlab.at.ispras.ru/angara/uncaptcha/-/blob/master/dataset.py){:target="_blank"}
 
 
 
