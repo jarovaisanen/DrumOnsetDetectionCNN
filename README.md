@@ -139,8 +139,7 @@ Project Link: [https://github.com/jarovaisanen/DrumOnsetDetectionCNN](https://gi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-Master's Thesis (in Finnish)
-* [Link under construction](https://www.jyu.fi/en/)
+[Master's Thesis (in Finnish)](http://urn.fi/URN:NBN:fi:jyu-202012177210)
 
 Original article
 * [Automatic drum transcription with convolutional neural networks](https://hal.archives-ouvertes.fr/hal-02018777/file/DAFx2018_paper_59.pdf)
